@@ -1,0 +1,23 @@
+@import "compass/css3";
+@import "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css";
+@import "http://vjs.zencdn.net/5.4.6/video-js.css";
+
+$imgPath:"../img/";
+
+/************************  VARIABLES  ************************/
+@import '../partials/_colors.scss';
+@import '../partials/_borders.scss';
+@import '../partials/_sizes.scss';
+@import '../partials/_type.scss';
+@import '../partials/_zindex.scss';
+@import '../partials/_breakpoints.scss';
+
+/************************  GLOBALS  ************************/
+@import '../partials/globals.scss';
+
+/************************  PARTS  ************************/
+@import '../partials/header.scss';
+@import '../partials/marquee.scss';
+@import '../partials/work.scss';
+@import '../partials/contact.scss';
+@import '../partials/project.scss';

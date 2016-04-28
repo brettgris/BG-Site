@@ -1,0 +1,1999 @@
+{
+    "status": "ok",
+    "count": 7,
+    "count_total": 7,
+    "pages": 1,
+    "posts": [{
+        "id": 56,
+        "type": "project",
+        "slug": "family-tree",
+        "url": "http:\/\/voyagecreative.com\/project\/family-tree\/",
+        "status": "publish",
+        "title": "Family Tree",
+        "title_plain": "Family Tree",
+        "content": "<h1>BUILT FOR A ROYAL FAMILY<\/h1>\n<p>The television mini-series &#8220;The White Queen&#8221; focuses on the battle for the English Throne by three different relentless women, starting in the 1400&#8217;s. To help fans keep track of the characters in their quests for power, we were asked to develop an interactive family tree for the royal family of England during the time period that the show spanned. <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_devices.png\" alt=\"Touch and Mouse Events\" class=\"alignnone size-full wp-image-239\" \/><\/div>\n<h1>UPDATING WITH EACH EPISODE&#8217;S EVENTS<\/h1>\n<p>The goal of The White Queen Family Tree is to help users keep track of the different characters throughout the 10 episode mini-series. In order to accomplish this, the experience is built on a large grid interface and a XML data file that the site parses and interprets to setup how it&#8217;s laid out. As the episode slider changes, sort through the data changes and then use the grid layout to move, update, and make connections to the 90 different characters, as a visualization of the events in each episode.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-grid.png\" alt=\"Built On A Grid\" class=\"alignnone size-full wp-image-386\" \/><\/div>\n<h1>MAKING THE USER EXPERIENCE AS SEAMLESS AS POSSIBLE<\/h1>\n<p>Since the family tree houses large amounts of information for the user, we wanted to build an experience that did not require a fan to learn how to use it. The user experience is built very similar to a mapping interface with zoom, panning, and clicking on points. On computers, this is accomplished with mouse interactions click and drag to pan, mouse wheel to zoom, and click on points to open character panels. On tablets, this is accomplished with touch dragging to pan, pinch\/expand to zoom, and touch to open character panels. All of this, creates an interface without a steep learning curve, in order to explore and learn more about the series.   <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-top.png\" alt=\"Character Shots\" class=\"alignnone size-full wp-image-243\" \/><\/div>\n<h1>THE MOST SCHEMING SCHEMER<\/h1>\n<p>As an added bonus to encourage users to return each week, the family tree also included a voting module. Based on the current week&#8217;s episode, there were three awards to be given out, to who the fans deemed as most deserving that week. The awards included &#8220;Power Player&#8221;, &#8220;Scheming Schemer&#8221;, &#8220;War of the Words&#8221;, &#8220;Shock and Awe&#8221;, &#8220;Scene Stealer&#8221; and &#8220;If Looks Could Kill.&#8221; <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_vote.png\" alt=\"Vote On Weekly Polls\" class=\"alignnone size-full wp-image-237\" \/><\/div>\n",
+        "excerpt": "BUILT FOR A ROYAL FAMILY The television mini-series &#8220;The White Queen&#8221; focuses on the battle for the English Throne by three different relentless women, starting in the 1400&#8217;s. To help fans keep track of the characters in their quests for power, we were asked to develop an interactive family tree for the royal family of&#8230; <a class=\"view-article\" href=\"http:\/\/voyagecreative.com\/project\/family-tree\/\">View Article<\/a>",
+        "date": "2014-08-05 21:53:43",
+        "modified": "2016-01-21 21:42:16",
+        "categories": [],
+        "tags": [{
+            "id": 16,
+            "slug": "developer",
+            "title": "developer",
+            "description": "",
+            "post_count": 6
+        }, {
+            "id": 12,
+            "slug": "starz",
+            "title": "starz",
+            "description": "",
+            "post_count": 7
+        }, {
+            "id": 15,
+            "slug": "whitequeen",
+            "title": "whitequeen",
+            "description": "",
+            "post_count": 1
+        }],
+        "author": {
+            "id": 1,
+            "slug": "brettgris",
+            "name": "brettgris",
+            "first_name": "Brett",
+            "last_name": "Grisinger",
+            "nickname": "brettgris",
+            "url": "",
+            "description": ""
+        },
+        "comments": [],
+        "attachments": [{
+            "id": 57,
+            "url": "http:\/\/brettgrisinger.com\/vc\/wp-content\/uploads\/2014\/08\/whitequeen.jpg",
+            "slug": "whitequeen",
+            "title": "White Queen Background",
+            "description": "",
+            "caption": "",
+            "parent": 56,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeen.jpg",
+                    "width": 1800,
+                    "height": 800
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeen-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeen-250x111.jpg",
+                    "width": 250,
+                    "height": 111
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeen-700x311.jpg",
+                    "width": 700,
+                    "height": 311
+                }
+            }
+        }, {
+            "id": 58,
+            "url": "http:\/\/brettgrisinger.com\/vc\/wp-content\/uploads\/2014\/08\/familytree_s.png",
+            "slug": "familytree_s",
+            "title": "Family Tree Project Image",
+            "description": "",
+            "caption": "",
+            "parent": 56,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_s.png",
+                    "width": 700,
+                    "height": 437
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_s-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_s-250x156.png",
+                    "width": 250,
+                    "height": 156
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_s.png",
+                    "width": 700,
+                    "height": 437
+                }
+            }
+        }, {
+            "id": 602,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeen_logo2.png",
+            "slug": "whitequeen_logo2",
+            "title": "whitequeen_logo2",
+            "description": "",
+            "caption": "",
+            "parent": 56,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeen_logo2.png",
+                    "width": 414,
+                    "height": 64
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeen_logo2-150x64.png",
+                    "width": 150,
+                    "height": 64
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeen_logo2-300x46.png",
+                    "width": 300,
+                    "height": 46
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeen_logo2.png",
+                    "width": 414,
+                    "height": 64
+                }
+            }
+        }, {
+            "id": 80,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeenthumb.jpg",
+            "slug": "whitequeenthumb",
+            "title": "whitequeenthumb",
+            "description": "",
+            "caption": "",
+            "parent": 56,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeenthumb.jpg",
+                    "width": 200,
+                    "height": 200
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeenthumb-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeenthumb.jpg",
+                    "width": 200,
+                    "height": 200
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/whitequeenthumb.jpg",
+                    "width": 200,
+                    "height": 200
+                }
+            }
+        }, {
+            "id": 237,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_vote.png",
+            "slug": "familytree_vote",
+            "title": "Vote On Weekly Polls",
+            "description": "",
+            "caption": "",
+            "parent": 56,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_vote.png",
+                    "width": 960,
+                    "height": 563
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_vote-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_vote-250x146.png",
+                    "width": 250,
+                    "height": 146
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_vote-700x410.png",
+                    "width": 700,
+                    "height": 410
+                }
+            }
+        }, {
+            "id": 239,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_devices.png",
+            "slug": "familytree_devices",
+            "title": "Touch and Mouse Events",
+            "description": "",
+            "caption": "",
+            "parent": 56,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_devices.png",
+                    "width": 960,
+                    "height": 445
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_devices-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_devices-250x115.png",
+                    "width": 250,
+                    "height": 115
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree_devices-700x324.png",
+                    "width": 700,
+                    "height": 324
+                }
+            }
+        }, {
+            "id": 243,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-top.png",
+            "slug": "familytree-top",
+            "title": "Character Shots",
+            "description": "",
+            "caption": "",
+            "parent": 56,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-top.png",
+                    "width": 940,
+                    "height": 666
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-top-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-top-250x177.png",
+                    "width": 250,
+                    "height": 177
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-top-700x495.png",
+                    "width": 700,
+                    "height": 495
+                }
+            }
+        }, {
+            "id": 386,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-grid.png",
+            "slug": "familytree-grid",
+            "title": "Built On A Grid",
+            "description": "",
+            "caption": "",
+            "parent": 56,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-grid.png",
+                    "width": 960,
+                    "height": 563
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-grid-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-grid-250x146.png",
+                    "width": 250,
+                    "height": 146
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/familytree-grid-700x410.png",
+                    "width": 700,
+                    "height": 410
+                }
+            }
+        }],
+        "comment_count": 0,
+        "comment_status": "closed",
+        "custom_fields": {
+            "project_background": ["57"],
+            "project_image": ["58"],
+            "project_logo": ["602"],
+            "project_description": ["An interactive family tree for the television mini-series \"The White Queen\" that updates with each episode and includes a fan voting module."],
+            "project_types": ["a:3:{i:0;s:11:\"development\";i:1;s:3:\"web\";i:2;s:6:\"tablet\";}"],
+            "left_or_right": ["Left"],
+            "marquee_include": ["1"],
+            "marquee_word": ["Royal"],
+            "marquee_description": ["The White Queen Family Tree is an interactive way to follow the quest for the English Throne, by three different relentless women and their families, starting in the 1400's."],
+            "project_link": ["http:\/\/brettgrisinger.com\/projects\/whitequeen\/index.html"],
+            "features": ["Development \/\/ JQuery \/ PHP \/ HTML \/ CSS \/ XML<br>\r\nResponsive \/\/ PC, Tablet<br>\r\nRole \/\/ Development"],
+            "project_thumb": ["80"],
+            "marquee_video_path": ["videos\/whitequeen"]
+        }
+    }, {
+        "id": 440,
+        "type": "project",
+        "slug": "blunt-talk-press-kit",
+        "url": "http:\/\/voyagecreative.com\/project\/blunt-talk-press-kit\/",
+        "status": "publish",
+        "title": "Press Kit",
+        "title_plain": "Press Kit",
+        "content": "<h1>INSIDE LOOK AT BLUNT<\/h1>\n<p>The \u201cBlunt Talk\u201d digital press kit is a microsite used to promote the new comedy show \u201cBlunt Talk\u201d to the press. The press kit provides an animated open, cast bios, production bios, photography galleries, videos and downloads to give an inside look at the new show and characters. <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_1.png\" alt=\"Blunt Talk Press Kit\" class=\"alignnone size-full wp-image-534\" \/><\/div>\n<h1>ANIMATED OPEN<\/h1>\n<p>A key element to the printed version of the &#8220;Blunt Talk&#8221; printed press kit is the vector outline of Walter Blunt&#8217;s head,  that is filled in with different icons that represent his personality. To emphasize this section in the digital press kit, we animated it in using a plugin to draw the outline and then tweened the icons in. The biggest challenge was positioning all of the elements with percentages so that the head and icons were  responsive and could scale with different devices.     <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_2.png\" alt=\"Blunt Talk Press Kit - Animated Open\" class=\"alignnone size-full wp-image-532\" \/><\/div>\n<h1>MULTIPLE DEVICES<\/h1>\n<p>It was important to build the site so that it could work on any device. All of the pages needed multiple layouts to be sure that the information was quickly viewable at first glance with minimum scrolling.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_3.png\" alt=\"Blunt Talk Press Kit - Devices\" class=\"alignnone size-full wp-image-536\" \/><\/div>\n",
+        "excerpt": "INSIDE LOOK AT BLUNT The \u201cBlunt Talk\u201d digital press kit is a microsite used to promote the new comedy show \u201cBlunt Talk\u201d to the press. The press kit provides an animated open, cast bios, production bios, photography galleries, videos and downloads to give an inside look at the new show and characters. ANIMATED OPEN A&#8230; <a class=\"view-article\" href=\"http:\/\/voyagecreative.com\/project\/blunt-talk-press-kit\/\">View Article<\/a>",
+        "date": "2015-08-11 22:17:46",
+        "modified": "2015-12-30 20:05:21",
+        "categories": [],
+        "tags": [{
+            "id": 21,
+            "slug": "blunttalk",
+            "title": "blunttalk",
+            "description": "",
+            "post_count": 1
+        }, {
+            "id": 14,
+            "slug": "designer",
+            "title": "designer",
+            "description": "",
+            "post_count": 5
+        }, {
+            "id": 16,
+            "slug": "developer",
+            "title": "developer",
+            "description": "",
+            "post_count": 6
+        }, {
+            "id": 12,
+            "slug": "starz",
+            "title": "starz",
+            "description": "",
+            "post_count": 7
+        }],
+        "author": {
+            "id": 1,
+            "slug": "brettgris",
+            "name": "brettgris",
+            "first_name": "Brett",
+            "last_name": "Grisinger",
+            "nickname": "brettgris",
+            "url": "",
+            "description": ""
+        },
+        "comments": [],
+        "attachments": [{
+            "id": 481,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk_logo.png",
+            "slug": "blunttalk_logo",
+            "title": "blunttalk_logo",
+            "description": "",
+            "caption": "",
+            "parent": 440,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk_logo.png",
+                    "width": 302,
+                    "height": 64
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk_logo-150x64.png",
+                    "width": 150,
+                    "height": 64
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk_logo-250x53.png",
+                    "width": 250,
+                    "height": 53
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk_logo.png",
+                    "width": 302,
+                    "height": 64
+                }
+            }
+        }, {
+            "id": 491,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk.jpg",
+            "slug": "blunttalk",
+            "title": "blunttalk",
+            "description": "",
+            "caption": "",
+            "parent": 440,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk.jpg",
+                    "width": 1800,
+                    "height": 800
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk-250x111.jpg",
+                    "width": 250,
+                    "height": 111
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/blunttalk-700x311.jpg",
+                    "width": 700,
+                    "height": 311
+                }
+            }
+        }, {
+            "id": 510,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/bt_project1.png",
+            "slug": "bt_project-2",
+            "title": "bt_project",
+            "description": "",
+            "caption": "",
+            "parent": 440,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/bt_project1.png",
+                    "width": 700,
+                    "height": 479
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/bt_project1-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/bt_project1-250x171.png",
+                    "width": 250,
+                    "height": 171
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/bt_project1-700x479.png",
+                    "width": 700,
+                    "height": 479
+                }
+            }
+        }, {
+            "id": 532,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_2.png",
+            "slug": "btpk_2",
+            "title": "Blunt Talk Press Kit - Animated Open",
+            "description": "",
+            "caption": "",
+            "parent": 440,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_2.png",
+                    "width": 960,
+                    "height": 498
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_2-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_2-250x130.png",
+                    "width": 250,
+                    "height": 130
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_2-700x363.png",
+                    "width": 700,
+                    "height": 363
+                }
+            }
+        }, {
+            "id": 534,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_1.png",
+            "slug": "btpk_1",
+            "title": "Blunt Talk Press Kit",
+            "description": "",
+            "caption": "",
+            "parent": 440,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_1.png",
+                    "width": 960,
+                    "height": 445
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_1-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_1-250x116.png",
+                    "width": 250,
+                    "height": 116
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_1-700x324.png",
+                    "width": 700,
+                    "height": 324
+                }
+            }
+        }, {
+            "id": 536,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_3.png",
+            "slug": "btpk_3",
+            "title": "Blunt Talk Press Kit - Devices",
+            "description": "",
+            "caption": "",
+            "parent": 440,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_3.png",
+                    "width": 960,
+                    "height": 522
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_3-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_3-250x136.png",
+                    "width": 250,
+                    "height": 136
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/btpk_3-700x381.png",
+                    "width": 700,
+                    "height": 381
+                }
+            }
+        }],
+        "comment_count": 0,
+        "comment_status": "closed",
+        "custom_fields": {
+            "project_link": ["http:\/\/brettgrisinger.com\/projects\/btpk\/index.html"],
+            "features": ["Development \/\/ JQuery, HTML & CSS<br>\r\nResponsive \/\/ PC, Tablet, Mobile<br>\r\nRole \/\/ Art Direction, UX Design & Development"],
+            "project_background": ["491"],
+            "project_image": ["510"],
+            "project_logo": ["481"],
+            "project_description": ["A promotional microsite sent to the press for the television show \u201cBlunt Talk\u201d that features an animated intro, cast and production bios, photography galleries, videos and downloads."],
+            "project_types": ["a:6:{i:0;s:12:\"artdirection\";i:1;s:11:\"development\";i:2;s:6:\"design\";i:3;s:3:\"web\";i:4;s:6:\"tablet\";i:5;s:6:\"mobile\";}"],
+            "left_or_right": ["Right"],
+            "marquee_include": ["1"],
+            "marquee_word": ["Dysfunctional"],
+            "marquee_description": ["The Blunt Talk Press Kit is a promotional microsite with an inside look into the mind and escapades of Walter Blunt, played by Patrick Stewart, a British import intent on conquering the world of American cable news."],
+            "marquee_video_path": ["videos\/blunttalk"]
+        }
+    }, {
+        "id": 155,
+        "type": "project",
+        "slug": "apothecary-cabinet",
+        "url": "http:\/\/voyagecreative.com\/project\/apothecary-cabinet\/",
+        "status": "publish",
+        "title": "Apothecary Cabinet",
+        "title_plain": "Apothecary Cabinet",
+        "content": "<h1>A LOOK INTO THE PAST<\/h1>\n<p>The Outlander Apothecary Cabinet is an informative experience for fans of the television series \u201cOutlander,\u201d allowing users a glimpse into Claire&#8217;s world in the 1700s as an apothecary. The cabinet provides a look into the 14 herbs and tinctures used by Claire to treat illnesses and also get details on how they were used.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_devices.png\" alt=\"Apothecary Cabinet Devices\" class=\"alignnone size-full wp-image-398\" \/><\/div>\n<h1>PLACING THE HERBS IN THE CABINET<\/h1>\n<p>We worked with the set photographers to make the interface a replica of the actual cabinet from the set of &#8220;Outlander.&#8221; From this shot, we were able to pull a few bottles out of it, and with a scale tween, we were able to visualize them coming out of the cabinet on rollover.<\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_rollover.png\" alt=\"Apothecary Herb Rollover\" class=\"alignnone size-full wp-image-400\" \/><\/div>\n<h1>HOW THE HERBS WHERE USED IN THE 1700s<\/h1>\n<p>Each herb can be selected, by clicking on the image, providing the user with a drawing of the herb and a detailed description of how Claire used the herb to treat illness in the 1700&#8217;s, as well as other ways that each herb was used for health benefits.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_details.png\" alt=\"Outlander Apothecary Herb Details\" class=\"alignnone size-full wp-image-403\" \/><\/div>\n",
+        "excerpt": "A LOOK INTO THE PAST The Outlander Apothecary Cabinet is an informative experience for fans of the television series \u201cOutlander,\u201d allowing users a glimpse into Claire&#8217;s world in the 1700s as an apothecary. The cabinet provides a look into the 14 herbs and tinctures used by Claire to treat illnesses and also get details on&#8230; <a class=\"view-article\" href=\"http:\/\/voyagecreative.com\/project\/apothecary-cabinet\/\">View Article<\/a>",
+        "date": "2014-08-11 22:31:38",
+        "modified": "2015-12-30 20:05:42",
+        "categories": [],
+        "tags": [{
+            "id": 14,
+            "slug": "designer",
+            "title": "designer",
+            "description": "",
+            "post_count": 5
+        }, {
+            "id": 16,
+            "slug": "developer",
+            "title": "developer",
+            "description": "",
+            "post_count": 6
+        }, {
+            "id": 18,
+            "slug": "outlander",
+            "title": "outlander",
+            "description": "",
+            "post_count": 2
+        }, {
+            "id": 12,
+            "slug": "starz",
+            "title": "starz",
+            "description": "",
+            "post_count": 7
+        }],
+        "author": {
+            "id": 1,
+            "slug": "brettgris",
+            "name": "brettgris",
+            "first_name": "Brett",
+            "last_name": "Grisinger",
+            "nickname": "brettgris",
+            "url": "",
+            "description": ""
+        },
+        "comments": [],
+        "attachments": [{
+            "id": 165,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/outlander_both.jpg",
+            "slug": "outlander_both",
+            "title": "outlander_both",
+            "description": "",
+            "caption": "",
+            "parent": 155,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/outlander_both.jpg",
+                    "width": 1800,
+                    "height": 800
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/outlander_both-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/outlander_both-250x111.jpg",
+                    "width": 250,
+                    "height": 111
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/outlander_both-700x311.jpg",
+                    "width": 700,
+                    "height": 311
+                }
+            }
+        }, {
+            "id": 204,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/claire_thumb.jpg",
+            "slug": "claire_thumb",
+            "title": "claire_thumb",
+            "description": "",
+            "caption": "",
+            "parent": 155,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/claire_thumb.jpg",
+                    "width": 200,
+                    "height": 200
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/claire_thumb-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/claire_thumb.jpg",
+                    "width": 200,
+                    "height": 200
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/claire_thumb.jpg",
+                    "width": 200,
+                    "height": 200
+                }
+            }
+        }, {
+            "id": 396,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_pi.png",
+            "slug": "apothecary_pi",
+            "title": "Outlander Apothecary Cabinet",
+            "description": "",
+            "caption": "",
+            "parent": 155,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_pi.png",
+                    "width": 700,
+                    "height": 479
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_pi-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_pi-250x171.png",
+                    "width": 250,
+                    "height": 171
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_pi.png",
+                    "width": 700,
+                    "height": 479
+                }
+            }
+        }, {
+            "id": 398,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_devices.png",
+            "slug": "apothecary_devices",
+            "title": "Apothecary Cabinet Devices",
+            "description": "",
+            "caption": "",
+            "parent": 155,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_devices.png",
+                    "width": 960,
+                    "height": 445
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_devices-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_devices-250x115.png",
+                    "width": 250,
+                    "height": 115
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_devices-700x324.png",
+                    "width": 700,
+                    "height": 324
+                }
+            }
+        }, {
+            "id": 400,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_rollover.png",
+            "slug": "apothecary_rollover",
+            "title": "Apothecary Herb Rollover",
+            "description": "",
+            "caption": "",
+            "parent": 155,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_rollover.png",
+                    "width": 960,
+                    "height": 563
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_rollover-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_rollover-250x146.png",
+                    "width": 250,
+                    "height": 146
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_rollover-700x410.png",
+                    "width": 700,
+                    "height": 410
+                }
+            }
+        }, {
+            "id": 403,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_details.png",
+            "slug": "apothecary_details",
+            "title": "Outlander Apothecary Herb Details",
+            "description": "",
+            "caption": "",
+            "parent": 155,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_details.png",
+                    "width": 960,
+                    "height": 563
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_details-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_details-250x146.png",
+                    "width": 250,
+                    "height": 146
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/apothecary_details-700x410.png",
+                    "width": 700,
+                    "height": 410
+                }
+            }
+        }, {
+            "id": 584,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/claire_rocks1.jpg",
+            "slug": "claire_rocks-2",
+            "title": "claire_rocks",
+            "description": "",
+            "caption": "",
+            "parent": 155,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/claire_rocks1.jpg",
+                    "width": 1800,
+                    "height": 800
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/claire_rocks1-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/claire_rocks1-300x133.jpg",
+                    "width": 300,
+                    "height": 133
+                }
+            }
+        }, {
+            "id": 586,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/Outlander_titleart1.png",
+            "slug": "outlander_titleart-2",
+            "title": "Outlander_titleart",
+            "description": "",
+            "caption": "",
+            "parent": 155,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/Outlander_titleart1.png",
+                    "width": 330,
+                    "height": 64
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/Outlander_titleart1-150x64.png",
+                    "width": 150,
+                    "height": 64
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/Outlander_titleart1-300x58.png",
+                    "width": 300,
+                    "height": 58
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/Outlander_titleart1.png",
+                    "width": 330,
+                    "height": 64
+                }
+            }
+        }],
+        "comment_count": 0,
+        "comment_status": "closed",
+        "custom_fields": {
+            "project_link": ["http:\/\/www.brettgrisinger.com\/projects\/olsac\/index.html"],
+            "features": ["Development \/\/ JQuery, HTML & CSS<br>\r\nResponsive \/\/ PC, Tablet, Mobile<br>\r\nRole \/\/ Art Direction, UX Design & Development"],
+            "project_background": ["584"],
+            "project_image": ["396"],
+            "project_logo": ["586"],
+            "project_thumb": ["206"],
+            "project_description": ["An informative experience for fans of the television series \u201cOutlander,\u201d highlighting the unique attributes of each herb that Claire studies and\/or uses to treat illnesses."],
+            "project_types": ["a:6:{i:0;s:12:\"artdirection\";i:1;s:11:\"development\";i:2;s:6:\"design\";i:3;s:3:\"web\";i:4;s:6:\"tablet\";i:5;s:6:\"mobile\";}"],
+            "left_or_right": ["Left"],
+            "marquee_include": ["1"],
+            "marquee_word": ["Fantasical"],
+            "marquee_description": ["In order to survive in the 1700s, it was vital that Claire had knowledge of the local plants and herbs for treating illnesses. The Outlander Apothecary Cabinet is an interactive way to venture deep inside Castle Leoch to explore the 14 herbs and tinctures used by Claire."],
+            "marquee_video_path": ["videos\/outlander"]
+        }
+    }, {
+        "id": 444,
+        "type": "project",
+        "slug": "outlander-photo-app",
+        "url": "http:\/\/voyagecreative.com\/project\/outlander-photo-app\/",
+        "status": "publish",
+        "title": "I Like It Scot",
+        "title_plain": "I Like It Scot",
+        "content": "<h1>SHOW THE WORLD<\/h1>\n<p>\u201cOutlander\u201d is a show that is based in the 1700s in Scotland, and has a very passionate fan based. The Outlander \u201cI Like It Scot\u201d is an activity for the fans to create a social image that can be shared with their friends, and to tell everybody that they are fan of the show and are ready for the new season of the show to begin.   <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_1.png\" alt=\"Outlander Photo - Main\" class=\"alignnone size-full wp-image-530\" \/><\/div>\n<h1>WALKING USERS THROUGH THE PROCESS<\/h1>\n<p>With this activity, it is very important to walk users through the process and make it as easy as possible. In order to do this, we created the experience in steps, and as self-explanatory as possible with visual guides that explain more the difficult functionality of positioning and resizing.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_2.png\" alt=\"Outlander Photo - Process\" class=\"alignnone size-full wp-image-538\" \/><\/div>\n<h1>USING HTML5<\/h1>\n<p>While this experience could be done easily in both flash and a mobile app, it would require downloads from the user. So we decided to proceed using PHP and HTML5, to build this experience in a way that would save development time and also provide a uniform experience on any device.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_3.png\" alt=\"Outlander Photo Devices\" class=\"alignnone size-full wp-image-527\" \/><\/div>\n",
+        "excerpt": "SHOW THE WORLD \u201cOutlander\u201d is a show that is based in the 1700s in Scotland, and has a very passionate fan based. The Outlander \u201cI Like It Scot\u201d is an activity for the fans to create a social image that can be shared with their friends, and to tell everybody that they are fan of&#8230; <a class=\"view-article\" href=\"http:\/\/voyagecreative.com\/project\/outlander-photo-app\/\">View Article<\/a>",
+        "date": "2015-08-11 22:25:36",
+        "modified": "2015-10-20 14:00:00",
+        "categories": [],
+        "tags": [{
+            "id": 16,
+            "slug": "developer",
+            "title": "developer",
+            "description": "",
+            "post_count": 6
+        }, {
+            "id": 18,
+            "slug": "outlander",
+            "title": "outlander",
+            "description": "",
+            "post_count": 2
+        }, {
+            "id": 12,
+            "slug": "starz",
+            "title": "starz",
+            "description": "",
+            "post_count": 7
+        }],
+        "author": {
+            "id": 1,
+            "slug": "brettgris",
+            "name": "brettgris",
+            "first_name": "Brett",
+            "last_name": "Grisinger",
+            "nickname": "brettgris",
+            "url": "",
+            "description": ""
+        },
+        "comments": [],
+        "attachments": [{
+            "id": 515,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_project.png",
+            "slug": "op_project",
+            "title": "op_project",
+            "description": "",
+            "caption": "",
+            "parent": 444,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_project.png",
+                    "width": 700,
+                    "height": 479
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_project-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_project-250x171.png",
+                    "width": 250,
+                    "height": 171
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_project-700x479.png",
+                    "width": 700,
+                    "height": 479
+                }
+            }
+        }, {
+            "id": 527,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_3.png",
+            "slug": "op_3",
+            "title": "Outlander Photo Devices",
+            "description": "",
+            "caption": "",
+            "parent": 444,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_3.png",
+                    "width": 960,
+                    "height": 522
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_3-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_3-250x136.png",
+                    "width": 250,
+                    "height": 136
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_3-700x381.png",
+                    "width": 700,
+                    "height": 381
+                }
+            }
+        }, {
+            "id": 530,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_1.png",
+            "slug": "op_1",
+            "title": "Outlander Photo - Main",
+            "description": "",
+            "caption": "",
+            "parent": 444,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_1.png",
+                    "width": 960,
+                    "height": 485
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_1-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_1-250x126.png",
+                    "width": 250,
+                    "height": 126
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_1-700x354.png",
+                    "width": 700,
+                    "height": 354
+                }
+            }
+        }, {
+            "id": 538,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_2.png",
+            "slug": "op_2",
+            "title": "Outlander Photo - Process",
+            "description": "",
+            "caption": "",
+            "parent": 444,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_2.png",
+                    "width": 960,
+                    "height": 563
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_2-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_2-250x147.png",
+                    "width": 250,
+                    "height": 147
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/op_2-700x411.png",
+                    "width": 700,
+                    "height": 411
+                }
+            }
+        }, {
+            "id": 588,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/outlander_both.jpg",
+            "slug": "outlander_both-2",
+            "title": "outlander_both",
+            "description": "",
+            "caption": "",
+            "parent": 444,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/outlander_both.jpg",
+                    "width": 1800,
+                    "height": 800
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/outlander_both-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/outlander_both-300x133.jpg",
+                    "width": 300,
+                    "height": 133
+                }
+            }
+        }, {
+            "id": 589,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/Outlander_titleart.png",
+            "slug": "outlander_titleart-3",
+            "title": "Outlander_titleart",
+            "description": "",
+            "caption": "",
+            "parent": 444,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/Outlander_titleart.png",
+                    "width": 330,
+                    "height": 64
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/Outlander_titleart-150x64.png",
+                    "width": 150,
+                    "height": 64
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/Outlander_titleart-300x58.png",
+                    "width": 300,
+                    "height": 58
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2015\/08\/Outlander_titleart.png",
+                    "width": 330,
+                    "height": 64
+                }
+            }
+        }],
+        "comment_count": 0,
+        "comment_status": "closed",
+        "custom_fields": {
+            "project_link": ["http:\/\/brettgrisinger.com\/projects\/outlanderphoto\/index.php"],
+            "features": ["Development \/\/ PHP, JQuery, HTML & CSS<br>\r\nResponsive \/\/ PC, Tablet, Mobile<br>\r\nRole \/\/ Development"],
+            "project_background": ["588"],
+            "project_image": ["515"],
+            "project_logo": ["589"],
+            "project_description": ["An activity for fans of the Scotland-based television series \u201cOutlander\u201d to create a sharable social image to tell their friends that they \"Like It Scot\" and are ready for the new season to begin."],
+            "project_types": ["a:5:{i:0;s:11:\"development\";i:1;s:3:\"web\";i:2;s:6:\"tablet\";i:3;s:6:\"mobile\";i:4;s:6:\"social\";}"],
+            "left_or_right": ["Right"],
+            "marquee_include": ["0"],
+            "marquee_word": ["NEW"],
+            "marquee_description": [""]
+        }
+    }, {
+        "id": 35,
+        "type": "project",
+        "slug": "ultimate-showdown",
+        "url": "http:\/\/voyagecreative.com\/project\/ultimate-showdown\/",
+        "status": "publish",
+        "title": "Ultimate Showdown",
+        "title_plain": "Ultimate Showdown",
+        "content": "<h1>A TOURNAMENT WORTHY OF GLADIATORS<\/h1>\n<p>In the break between the second and the final season of &#8220;Spartacus&#8221;, we were asked to create a way to engage their large Facebook fan base and draw hype to the release of the second season on DVD. For this, we created a gladiator battle tournament in which fans of the show could vote for their favorite gladiator in their battle to become champion.<\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_top1.png\" alt=\"Ultimate Showdown\" class=\"alignnone size-full wp-image-255\" \/><\/div>\n<h1>TWO GLADIATORS FACE OFF IN THE ARENA<\/h1>\n<p>Each day featured a new pair of gladiators to battle against each other, and fans were asked to pick who they wanted or thought would win if the two gladiators fought in the arena. After the fans voted, they were shown the voting percentages to see if their gladiator was winning, and on their way to becoming champion, or if they might be eliminated from the tournament.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_battle1.png\" alt=\"Gladiator Battle\" class=\"alignnone size-full wp-image-256\" \/><\/div>\n<h1>WHO WILL BE CHAMPION?<\/h1>\n<p>The tournament field consisted of the 8 most popular gladiators from the first two seasons, and were seeded in similar fashion to the NCAA basketball tournament. The winner of each first round matchup moved on to another battle and ultimately ended with a champion that was not the legendary Spartacus, but the fan favorite  Ganicus.<\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_brackets1.png\" alt=\"Gladiator Brackets\" class=\"alignnone size-full wp-image-257\" \/><\/div>\n<h1>A CHANCE TO WIN<\/h1>\n<p>In addition to the battles, this experience was used to promote the release of the second season of &#8220;Spartacus&#8221; on DVD. Once a fan voted in the daily battle, they earned a chance to win a copy of the second season on dvd or blu-ray and could come back each day for another shot to win.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_sweeps1.png\" alt=\"Sweepstakes\" class=\"alignnone size-full wp-image-258\" \/><\/div>\n",
+        "excerpt": "A TOURNAMENT WORTHY OF GLADIATORS In the break between the second and the final season of &#8220;Spartacus&#8221;, we were asked to create a way to engage their large Facebook fan base and draw hype to the release of the second season on DVD. For this, we created a gladiator battle tournament in which fans of&#8230; <a class=\"view-article\" href=\"http:\/\/voyagecreative.com\/project\/ultimate-showdown\/\">View Article<\/a>",
+        "date": "2014-08-05 19:27:29",
+        "modified": "2015-12-30 20:07:21",
+        "categories": [],
+        "tags": [{
+            "id": 14,
+            "slug": "designer",
+            "title": "designer",
+            "description": "",
+            "post_count": 5
+        }, {
+            "id": 11,
+            "slug": "spartacus",
+            "title": "spartacus",
+            "description": "",
+            "post_count": 1
+        }, {
+            "id": 12,
+            "slug": "starz",
+            "title": "starz",
+            "description": "",
+            "post_count": 7
+        }],
+        "author": {
+            "id": 1,
+            "slug": "brettgris",
+            "name": "brettgris",
+            "first_name": "Brett",
+            "last_name": "Grisinger",
+            "nickname": "brettgris",
+            "url": "",
+            "description": ""
+        },
+        "comments": [],
+        "attachments": [{
+            "id": 36,
+            "url": "http:\/\/brettgrisinger.com\/vc\/wp-content\/uploads\/2014\/08\/ultimateshowdown_s.png",
+            "slug": "ultimateshowdown_s",
+            "title": "Ultimate Showdown Project Image",
+            "description": "",
+            "caption": "",
+            "parent": 35,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/ultimateshowdown_s.png",
+                    "width": 700,
+                    "height": 444
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/ultimateshowdown_s-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/ultimateshowdown_s-250x158.png",
+                    "width": 250,
+                    "height": 158
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/ultimateshowdown_s-700x443.png",
+                    "width": 700,
+                    "height": 443
+                }
+            }
+        }, {
+            "id": 102,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacusthumb.jpg",
+            "slug": "spartacusthumb",
+            "title": "spartacusthumb",
+            "description": "",
+            "caption": "",
+            "parent": 35,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacusthumb.jpg",
+                    "width": 200,
+                    "height": 200
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacusthumb-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacusthumb.jpg",
+                    "width": 200,
+                    "height": 200
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacusthumb.jpg",
+                    "width": 200,
+                    "height": 200
+                }
+            }
+        }, {
+            "id": 105,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_logo1.png",
+            "slug": "spartacus_logo-2",
+            "title": "spartacus_logo",
+            "description": "",
+            "caption": "",
+            "parent": 35,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_logo1.png",
+                    "width": 273,
+                    "height": 64
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_logo1-150x64.png",
+                    "width": 150,
+                    "height": 64
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_logo1-250x58.png",
+                    "width": 250,
+                    "height": 58
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_logo1.png",
+                    "width": 273,
+                    "height": 64
+                }
+            }
+        }, {
+            "id": 255,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_top1.png",
+            "slug": "spartacus_top-2",
+            "title": "Ultimate Showdown",
+            "description": "",
+            "caption": "",
+            "parent": 35,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_top1.png",
+                    "width": 960,
+                    "height": 700
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_top1-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_top1-250x182.png",
+                    "width": 250,
+                    "height": 182
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_top1-700x510.png",
+                    "width": 700,
+                    "height": 510
+                }
+            }
+        }, {
+            "id": 256,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_battle1.png",
+            "slug": "spartacus_battle-2",
+            "title": "Gladiator Battle",
+            "description": "",
+            "caption": "",
+            "parent": 35,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_battle1.png",
+                    "width": 845,
+                    "height": 653
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_battle1-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_battle1-250x193.png",
+                    "width": 250,
+                    "height": 193
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_battle1-700x540.png",
+                    "width": 700,
+                    "height": 540
+                }
+            }
+        }, {
+            "id": 257,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_brackets1.png",
+            "slug": "spartacus_brackets-2",
+            "title": "Gladiator Brackets",
+            "description": "",
+            "caption": "",
+            "parent": 35,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_brackets1.png",
+                    "width": 845,
+                    "height": 444
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_brackets1-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_brackets1-250x131.png",
+                    "width": 250,
+                    "height": 131
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_brackets1-700x367.png",
+                    "width": 700,
+                    "height": 367
+                }
+            }
+        }, {
+            "id": 258,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_sweeps1.png",
+            "slug": "spartacus_sweeps-2",
+            "title": "Sweepstakes",
+            "description": "",
+            "caption": "",
+            "parent": 35,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_sweeps1.png",
+                    "width": 845,
+                    "height": 689
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_sweeps1-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_sweeps1-250x203.png",
+                    "width": 250,
+                    "height": 203
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus_sweeps1-700x570.png",
+                    "width": 700,
+                    "height": 570
+                }
+            }
+        }, {
+            "id": 591,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus1.jpg",
+            "slug": "spartacus-2",
+            "title": "spartacus",
+            "description": "",
+            "caption": "",
+            "parent": 35,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus1.jpg",
+                    "width": 1800,
+                    "height": 800
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus1-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/spartacus1-300x133.jpg",
+                    "width": 300,
+                    "height": 133
+                }
+            }
+        }],
+        "comment_count": 0,
+        "comment_status": "closed",
+        "custom_fields": {
+            "project_background": ["591"],
+            "project_image": ["36"],
+            "project_logo": ["105"],
+            "project-description": ["Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit."],
+            "left_or_right": ["Left"],
+            "marquee_include": ["1"],
+            "marquee_word": ["Legendary"],
+            "marquee_description": ["In the spirit of Rome's most famous gladiator, the Spartacus Ultimate Showdown is a social gladiator tournament in the fight for survival, and a battle to be the fan favorite champion."],
+            "project_types": ["a:3:{i:0;s:12:\"artdirection\";i:1;s:3:\"web\";i:2;s:6:\"social\";}"],
+            "project_description": ["A facebook gladiator tournament where participants help their favorite gladiators from the television series \"Spartacus\" in their battle to become the champion."],
+            "project_link": [""],
+            "features": ["Role \/\/ Art Direction & UX Design<br>\r\nPlatform \/\/ Facebook App"],
+            "project_thumb": ["102"],
+            "marquee_video_path": ["videos\/spartacus"]
+        }
+    }, {
+        "id": 405,
+        "type": "project",
+        "slug": "press-kit",
+        "url": "http:\/\/voyagecreative.com\/project\/press-kit\/",
+        "status": "publish",
+        "title": "Press Kit",
+        "title_plain": "Press Kit",
+        "content": "<h1>PROMOTING THE SHOW<\/h1>\n<p>To spread the word about the upcoming show, &#8220;Survivor&#8217;s Remorse,&#8221; a digital press kit microsite was built off of the printed press kit that goes out to the press. This press kit is designed to provide a visual of the show&#8217;s flavor and also provide cast bios, production bios, photography galleries, videos and downloads.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_devices.png\" alt=\"Press Kit Devices\" class=\"alignnone size-full wp-image-423\" \/><\/div>\n<h1>TYPOGRAPHY<\/h1>\n<p>The main feature in the &#8220;Survivor&#8217;s Remorse&#8221; press kit is both the attitude and style that is developed through the white space, character shots, and accents of strong and bold typography. To emphasize these key features, animation is used when you page through on the home page with the arrow keys, using the motion to draw attention to the amazing typography and photography.   <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_type.png\" alt=\"Press Kit Typography\" class=\"alignnone size-full wp-image-425\" \/><\/div>\n<h1>Tablet and Mobile Version<\/h1>\n<p>The press can often be viewing the site on many different devices, so an important element to the press kits is to make sure they can be viewed on any device and allow the user to quickly get to the information they need.   <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_mobile.png\" alt=\"Mobile\" class=\"alignnone size-full wp-image-431\" \/><\/div>\n",
+        "excerpt": "PROMOTING THE SHOW To spread the word about the upcoming show, &#8220;Survivor&#8217;s Remorse,&#8221; a digital press kit microsite was built off of the printed press kit that goes out to the press. This press kit is designed to provide a visual of the show&#8217;s flavor and also provide cast bios, production bios, photography galleries, videos&#8230; <a class=\"view-article\" href=\"http:\/\/voyagecreative.com\/project\/press-kit\/\">View Article<\/a>",
+        "date": "2014-09-25 19:48:58",
+        "modified": "2015-08-20 20:17:01",
+        "categories": [],
+        "tags": [{
+            "id": 14,
+            "slug": "designer",
+            "title": "designer",
+            "description": "",
+            "post_count": 5
+        }, {
+            "id": 16,
+            "slug": "developer",
+            "title": "developer",
+            "description": "",
+            "post_count": 6
+        }, {
+            "id": 20,
+            "slug": "presskit",
+            "title": "presskit",
+            "description": "",
+            "post_count": 1
+        }, {
+            "id": 12,
+            "slug": "starz",
+            "title": "starz",
+            "description": "",
+            "post_count": 7
+        }, {
+            "id": 19,
+            "slug": "survivorsremorse",
+            "title": "survivorsremorse",
+            "description": "",
+            "post_count": 1
+        }],
+        "author": {
+            "id": 1,
+            "slug": "brettgris",
+            "name": "brettgris",
+            "first_name": "Brett",
+            "last_name": "Grisinger",
+            "nickname": "brettgris",
+            "url": "",
+            "description": ""
+        },
+        "comments": [],
+        "attachments": [{
+            "id": 409,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/survivorsremorse.jpg",
+            "slug": "survivorsremorse",
+            "title": "survivors remorse",
+            "description": "",
+            "caption": "",
+            "parent": 405,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/survivorsremorse.jpg",
+                    "width": 1800,
+                    "height": 800
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/survivorsremorse-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/survivorsremorse-250x111.jpg",
+                    "width": 250,
+                    "height": 111
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/survivorsremorse-700x311.jpg",
+                    "width": 700,
+                    "height": 311
+                }
+            }
+        }, {
+            "id": 413,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr.png",
+            "slug": "sr",
+            "title": "sr",
+            "description": "",
+            "caption": "",
+            "parent": 405,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr.png",
+                    "width": 313,
+                    "height": 33
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr-150x33.png",
+                    "width": 150,
+                    "height": 33
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr-250x26.png",
+                    "width": 250,
+                    "height": 26
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr.png",
+                    "width": 313,
+                    "height": 33
+                }
+            }
+        }, {
+            "id": 417,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_pi.png",
+            "slug": "sr_pi",
+            "title": "Survivor's Remorse Press Kit",
+            "description": "",
+            "caption": "",
+            "parent": 405,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_pi.png",
+                    "width": 700,
+                    "height": 479
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_pi-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_pi-250x171.png",
+                    "width": 250,
+                    "height": 171
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_pi.png",
+                    "width": 700,
+                    "height": 479
+                }
+            }
+        }, {
+            "id": 423,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_devices.png",
+            "slug": "sr_devices",
+            "title": "Press Kit Devices",
+            "description": "",
+            "caption": "",
+            "parent": 405,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_devices.png",
+                    "width": 960,
+                    "height": 445
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_devices-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_devices-250x115.png",
+                    "width": 250,
+                    "height": 115
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_devices-700x324.png",
+                    "width": 700,
+                    "height": 324
+                }
+            }
+        }, {
+            "id": 425,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_type.png",
+            "slug": "sr_type",
+            "title": "Press Kit Typography",
+            "description": "",
+            "caption": "",
+            "parent": 405,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_type.png",
+                    "width": 960,
+                    "height": 498
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_type-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_type-250x129.png",
+                    "width": 250,
+                    "height": 129
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_type-700x363.png",
+                    "width": 700,
+                    "height": 363
+                }
+            }
+        }, {
+            "id": 431,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_mobile.png",
+            "slug": "sr_mobile",
+            "title": "Mobile",
+            "description": "",
+            "caption": "",
+            "parent": 405,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_mobile.png",
+                    "width": 960,
+                    "height": 522
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_mobile-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_mobile-250x135.png",
+                    "width": 250,
+                    "height": 135
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/09\/sr_mobile-700x380.png",
+                    "width": 700,
+                    "height": 380
+                }
+            }
+        }],
+        "comment_count": 0,
+        "comment_status": "closed",
+        "custom_fields": {
+            "project_link": ["http:\/\/www.brettgrisinger.com\/projects\/srpk\/index.html"],
+            "features": ["Development \/\/ JQuery, HTML & CSS<br>\r\nResponsive \/\/ PC, Tablet, Mobile<br>\r\nRole \/\/ Art Direction, UX Design & Development"],
+            "project_background": ["409"],
+            "project_image": ["417"],
+            "project_logo": ["413"],
+            "project_description": ["A promotional microsite sent to the press for the television show \u201cSurvivor's Remorse\u201d that features cast and production bios, photography galleries, videos and downloads. "],
+            "project_types": ["a:6:{i:0;s:12:\"artdirection\";i:1;s:11:\"development\";i:2;s:6:\"design\";i:3;s:3:\"web\";i:4;s:6:\"tablet\";i:5;s:6:\"mobile\";}"],
+            "left_or_right": ["Right"],
+            "marquee_include": ["0"],
+            "marquee_word": ["NEW"],
+            "marquee_description": [""]
+        }
+    }, {
+        "id": 61,
+        "type": "project",
+        "slug": "pirate-prize-wheel",
+        "url": "http:\/\/voyagecreative.com\/project\/pirate-prize-wheel\/",
+        "status": "publish",
+        "title": "Pirate Prize Wheel",
+        "title_plain": "Pirate Prize Wheel",
+        "content": "<h1>IN PURSUIT OF PIRATE&#8217;S TREASURE<\/h1>\n<p>For the promotion of the new pirate series, &#8220;Black Sails,&#8221; we were asked to create a portable prize wheel that be could carried around on tablets by representatives to award prizes for correct answers about the show and pirates.<\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prizewheel_ingraphic.png\" alt=\"Black Sails Pirate Prize Wheel\" class=\"alignnone size-full wp-image-148\" \/><\/div>\n<h1>MAKING A PIRATE&#8217;S WHEEL<\/h1>\n<p>Since this prize wheel was going to be themed for pirates, we decided to make the wheel look like the steering wheel from the Walrus, the ship used by the pirates in &#8220;Black Sails.&#8221; In order to do this, we had to find a prop shot that included the wheel, and then use photo retouching to complete the wheel and treat the image to turn this into an asset that could be used.<\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratewheel2.png\" alt=\"piratewheel\" class=\"alignnone size-full wp-image-235\" \/><\/div>\n<h1>CHANGEABLE PRIZES AND QUESTIONS ON THE FLY<\/h1>\n<p>We were asked to design and develop around the concept that representatives needed to be able to change out the prizes and questions on the fly, and without requiring logins. The solution that we came up with was to store the data for the prizes and questions in cookies. This way, the data was device specific and can be shared and edited by any of the representatives and if they run out of a prize, they can easily and quickly update.  <\/p>\n<div class=\"desc-image nbm\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/editpage.png\" alt=\"Edit Screen\" class=\"alignnone size-full wp-image-170\" \/><\/div>\n<h1>LANDING ON THE PRIZES<\/h1>\n<p>When we began developing the spinning wheel, it became apparent that we needed to develop a controlled spin that would land directly on a prize, and not somewhere in between two prizes. In order to achieve this, we randomly selected a prize before any spinning occurred, and calculated out what the degree would be for that prize. We then multiplied by the number of rotations, and then spun directly to that point. This way the prize wheel always landed directly on a prize.  <\/p>\n<div class=\"desc-image\"><img src=\"http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prod_shot.png\" alt=\"Interface\" class=\"alignnone size-full wp-image-184\" \/><\/div>\n",
+        "excerpt": "IN PURSUIT OF PIRATE&#8217;S TREASURE For the promotion of the new pirate series, &#8220;Black Sails,&#8221; we were asked to create a portable prize wheel that be could carried around on tablets by representatives to award prizes for correct answers about the show and pirates. MAKING A PIRATE&#8217;S WHEEL Since this prize wheel was going to&#8230; <a class=\"view-article\" href=\"http:\/\/voyagecreative.com\/project\/pirate-prize-wheel\/\">View Article<\/a>",
+        "date": "2014-08-05 22:12:32",
+        "modified": "2015-12-30 20:06:33",
+        "categories": [],
+        "tags": [{
+            "id": 17,
+            "slug": "blacksails",
+            "title": "blacksails",
+            "description": "",
+            "post_count": 1
+        }, {
+            "id": 14,
+            "slug": "designer",
+            "title": "designer",
+            "description": "",
+            "post_count": 5
+        }, {
+            "id": 16,
+            "slug": "developer",
+            "title": "developer",
+            "description": "",
+            "post_count": 6
+        }, {
+            "id": 12,
+            "slug": "starz",
+            "title": "starz",
+            "description": "",
+            "post_count": 7
+        }],
+        "author": {
+            "id": 1,
+            "slug": "brettgris",
+            "name": "brettgris",
+            "first_name": "Brett",
+            "last_name": "Grisinger",
+            "nickname": "brettgris",
+            "url": "",
+            "description": ""
+        },
+        "comments": [],
+        "attachments": [{
+            "id": 62,
+            "url": "http:\/\/brettgrisinger.com\/vc\/wp-content\/uploads\/2014\/08\/blacksails.jpg",
+            "slug": "blacksails",
+            "title": "blacksails",
+            "description": "",
+            "caption": "",
+            "parent": 61,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/blacksails.jpg",
+                    "width": 1800,
+                    "height": 800
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/blacksails-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/blacksails-250x111.jpg",
+                    "width": 250,
+                    "height": 111
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/blacksails-700x311.jpg",
+                    "width": 700,
+                    "height": 311
+                }
+            }
+        }, {
+            "id": 63,
+            "url": "http:\/\/brettgrisinger.com\/vc\/wp-content\/uploads\/2014\/08\/ipad_piratewheel_s.png",
+            "slug": "ipad_piratewheel_s",
+            "title": "ipad_piratewheel_s",
+            "description": "",
+            "caption": "",
+            "parent": 61,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/ipad_piratewheel_s.png",
+                    "width": 700,
+                    "height": 541
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/ipad_piratewheel_s-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/ipad_piratewheel_s-250x193.png",
+                    "width": 250,
+                    "height": 193
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/ipad_piratewheel_s.png",
+                    "width": 700,
+                    "height": 541
+                }
+            }
+        }, {
+            "id": 64,
+            "url": "http:\/\/brettgrisinger.com\/vc\/wp-content\/uploads\/2014\/08\/blacksails_logo.png",
+            "slug": "blacksails_logo",
+            "title": "blacksails_logo",
+            "description": "",
+            "caption": "",
+            "parent": 61,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/blacksails_logo.png",
+                    "width": 313,
+                    "height": 49
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/blacksails_logo-150x49.png",
+                    "width": 150,
+                    "height": 49
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/blacksails_logo-250x39.png",
+                    "width": 250,
+                    "height": 39
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/blacksails_logo.png",
+                    "width": 313,
+                    "height": 49
+                }
+            }
+        }, {
+            "id": 100,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratethumb.jpg",
+            "slug": "piratethumb",
+            "title": "piratethumb",
+            "description": "",
+            "caption": "",
+            "parent": 61,
+            "mime_type": "image\/jpeg",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratethumb.jpg",
+                    "width": 200,
+                    "height": 200
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratethumb-150x150.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratethumb.jpg",
+                    "width": 200,
+                    "height": 200
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratethumb.jpg",
+                    "width": 200,
+                    "height": 200
+                }
+            }
+        }, {
+            "id": 148,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prizewheel_ingraphic.png",
+            "slug": "prizewheel_ingraphic",
+            "title": "Black Sails Pirate Prize Wheel",
+            "description": "",
+            "caption": "",
+            "parent": 61,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prizewheel_ingraphic.png",
+                    "width": 960,
+                    "height": 485
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prizewheel_ingraphic-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prizewheel_ingraphic-250x126.png",
+                    "width": 250,
+                    "height": 126
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prizewheel_ingraphic-700x353.png",
+                    "width": 700,
+                    "height": 353
+                }
+            }
+        }, {
+            "id": 170,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/editpage.png",
+            "slug": "editpage",
+            "title": "Black Sails Pirate Prize Wheel - Edit Screen",
+            "description": "",
+            "caption": "",
+            "parent": 61,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/editpage.png",
+                    "width": 960,
+                    "height": 570
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/editpage-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/editpage-250x148.png",
+                    "width": 250,
+                    "height": 148
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/editpage-700x415.png",
+                    "width": 700,
+                    "height": 415
+                }
+            }
+        }, {
+            "id": 184,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prod_shot.png",
+            "slug": "prod_shot",
+            "title": "Interface",
+            "description": "",
+            "caption": "",
+            "parent": 61,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prod_shot.png",
+                    "width": 800,
+                    "height": 667
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prod_shot-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prod_shot-250x208.png",
+                    "width": 250,
+                    "height": 208
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/prod_shot-700x583.png",
+                    "width": 700,
+                    "height": 583
+                }
+            }
+        }, {
+            "id": 235,
+            "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratewheel2.png",
+            "slug": "piratewheel-3",
+            "title": "piratewheel",
+            "description": "",
+            "caption": "",
+            "parent": 61,
+            "mime_type": "image\/png",
+            "images": {
+                "full": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratewheel2.png",
+                    "width": 960,
+                    "height": 513
+                },
+                "thumbnail": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratewheel2-150x150.png",
+                    "width": 150,
+                    "height": 150
+                },
+                "medium": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratewheel2-250x133.png",
+                    "width": 250,
+                    "height": 133
+                },
+                "large": {
+                    "url": "http:\/\/voyagecreative.com\/wp-content\/uploads\/2014\/08\/piratewheel2-700x374.png",
+                    "width": 700,
+                    "height": 374
+                }
+            }
+        }],
+        "comment_count": 0,
+        "comment_status": "closed",
+        "custom_fields": {
+            "project_background": ["62"],
+            "project_image": ["63"],
+            "project_logo": ["64"],
+            "project_description": ["A portable training activity for the promotion of the television series \"Black Sails,\" which includes a pirate theme and editable prizes."],
+            "project_types": ["a:6:{i:0;s:12:\"artdirection\";i:1;s:11:\"development\";i:2;s:6:\"design\";i:3;s:3:\"web\";i:4;s:6:\"tablet\";i:5;s:4:\"game\";}"],
+            "left_or_right": ["Left"],
+            "marquee_include": ["1"],
+            "marquee_word": ["Adventurous"],
+            "marquee_description": ["In the Golden Age of Piracy, pirates would stop at nothing in their hunt for their ultimate prize. The \"Black Sails\" Pirate Prize Wheel is a simple prize activity that is built for the pirate in us all. "],
+            "project_link": ["http:\/\/www.brettgrisinger.com\/projects\/bkspw\/index.html"],
+            "features": ["Development \/\/ JQuery, HTML & CSS<br>\r\nResponsive \/\/ PC, Tablet<br>\r\nRole \/\/ Art Direction, UX Design & Development"],
+            "project_thumb": ["100"],
+            "marquee_video_path": ["videos\/blacksails"]
+        }
+    }],
+    "query": {
+        "ignore_sticky_posts": true,
+        "post_type": "project"
+    }
+}

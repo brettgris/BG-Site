@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 193 193" style="enable-background:new 0 0 193 193;" xml:space="preserve">
+<style type="text/css">
+	#XMLID_14_{
+		fill:url(#MyGradient);
+		stroke:#ffffff;
+		filter:url(#dropshadow);
+	}
+</style>
+<defs>
+	<linearGradient id="MyGradient" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="0%" y2="100%">
+		<stop stop-opacity=".3" stop-color="#ffffff" offset="0"/>
+        <stop stop-opacity=".9" stop-color="#ffffff" offset="1"/>
+	</linearGradient>
+	<filter id="dropshadow" height="150%">
+		<feGaussianBlur in="SourceAlpha" stdDeviation="5"/> <!-- stdDeviation is how much to blur -->
+		<feOffset dx="0" dy="0" result="offsetblur"/> <!-- how much to offset -->
+		<feMerge> 
+			<feMergeNode/> <!-- this contains the offset blurred image -->
+			<feMergeNode in="SourceGraphic"/> <!-- this contains the element that the filter is applied to -->
+		</feMerge>
+	</filter>
+</defs>
+<g id="XMLID_14_">
+	<ellipse id="XMLID_26_" class="st0" cx="68.89999999999998" cy="96.5" rx="16.4" ry="17.9"/>
+	<path id="XMLID_27_" class="st0" d="m91.69999999999999 161.89999999999998c0 -9.6 7.7 -13.9 9.3 -14.9v-0.5c-4.2 -1.1 -11.7 -5.3 -11.7 -15.2c0 -12.2 10.7 -18.4 10.7 -18.4s-3.3 -4.3 -4.6 -10.9c-2.6 12.6 -13.4 22 -26.3 22c-6.4 0 -12.4 -2.3 -17 -6.2l-1.7 8.5c-0.2 1.1 -1.6 1.8 -2.7 1.8h-2.7c-1.8 0 -3 -1.3 -3 -3l0.3 -28.7v-0.1c0 -0.1 0 -0.1 0 -0.2v-0.5v-65.4c-19.3 15.8 -31.5 39.6 -31.5 66.3c0 47.4 38.6 86 86 86c3.7 0 7.3 -0.3 10.9 -0.7c-11 -3.8999999999999773 -16 -12.199999999999932 -16 -19.899999999999977z"/>
+	<path id="XMLID_28_" class="st0" d="m96.80000000000001 10.5c-16.4 0 -31.7 4.6 -44.7 12.6v51.6c4.6 -3.9 10.5 -6.2 17 -6.2c13.1 0 24.1 9.6 26.5 22.4c2.4 -12.3 12.1 -22.1 26.5 -22.1h27c1.8 0 3 1.3 3 3v2.7c0 1.1 -0.6 2.6 -1.8 2.7l-8.6 1.8c0 0 7.2 5.3 7.2 17.9c0 14.6 -10.4 27.2 -26.9 27.2c-10.2 0 -15.2 -4 -15.2 -4s-7 3.2 -7 9.6c0 4 2.9 7.8 8.8 7.8h23c13.4 0 24 6.6 24 20.5c0 0.4 0 0.7 0 1.1c16.7 -15.7 27.2 -38 27.2 -62.7c2.842170943040401e-14 -47.300000000000026 -38.599999999999994 -85.90000000000002 -85.99999999999997 -85.90000000000002z"/>
+	<path id="XMLID_29_" class="st0" d="m122.10000000000002 114.60000000000002c9.6 0 16 -7.4 16 -17.9c0 -10.6 -6.4 -17.9 -16 -17.9c-9.8 0 -16.8 7.4 -16.8 17.9s7.099999999999952 17.900000000000006 16.799999999999997 17.900000000000006z"/>
+	<path id="XMLID_30_" class="st0" d="m131.60000000000002 148c-5.9 0 -11.8 0 -17.8 0c0 0 -10.7 2.9 -10.7 12.3c0 7.7 8.3 13.3 19.2 13.3c10.6 0 21.4 -5.9 21.4 -15.2c-2.842170943040401e-14 -2.1000000000000227 -0.9000000000000057 -10.400000000000034 -12.099999999999994 -10.400000000000034z"/>
+</g>
+</svg>

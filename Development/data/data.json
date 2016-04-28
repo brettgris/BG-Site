@@ -1,0 +1,263 @@
+{
+	"filters":[
+		{
+			"title":"All",
+			"val":""
+		},{
+			"title":"Art Direction",
+			"val":"artdirection"
+		},{
+			"title":"Development",
+			"val":"development"
+		},{
+			"title":"Design",
+			"val":"design"
+		},{
+			"title":"Web",
+			"val":"web"
+		},{
+			"title":"Tablet",
+			"val":"tablet"
+		},{
+			"title":"Mobile",
+			"val":"mobile"
+		},{
+			"title":"Game",
+			"val":"game"
+		},{
+			"title":"Social",
+			"val":"social"
+		}
+	],
+	"projects":[
+		{
+			"title": "Family Tree",
+			"safename": "wqfamilytree",
+			"background": "img/projects/whitequeen/familytree_background.jpg",
+			"projectimage": "img/projects/whitequeen/familytree_projectimage.png",
+			"titleart": "img/projects/whitequeen/whitequeen_ta.png",
+			"description": "An interactive family tree for the television mini-series \"The White Queen\" that updates with each episode and includes a fan voting module.",
+			"filters": ["development","web","tablet"],
+			"marquee": "The White Queen Family Tree is an interactive way to follow the quest for the English Throne, by three different relentless women and their families, starting in the 1400's.",
+			"video": "videos/whitequeen.mp4",
+			"features": [
+				"Development // JQuery / PHP / HTML / CSS / XML",
+				"Responsive // PC, Tablet",
+				"Role // Development"
+			],
+			"link": "http://brettgrisinger.com/projects/whitequeen/index.html",
+			"copy":[
+				{
+					"title": "BUILT FOR A ROYAL FAMILY",
+					"copy": "The television mini-series \"The White Queen\" focuses on the battle for the English Throne by three different relentless women, starting in the 1400’s. To help fans keep track of the characters in their quests for power, we were asked to develop an interactive family tree for the royal family of England during the time period that the show spanned.",
+					"image": "img/projects/whitequeen/familytree_devices.png"
+				},{
+					"title": "UPDATING WITH EACH EPISODE’S EVENTS",
+					"copy": "The goal of The White Queen Family Tree is to help users keep track of the different characters throughout the 10 episode mini-series. In order to accomplish this, the experience is built on a large grid interface and a XML data file that the site parses and interprets to setup how it’s laid out. As the episode slider changes, sort through the data changes and then use the grid layout to move, update, and make connections to the 90 different characters, as a visualization of the events in each episode. ",
+					"image": "img/projects/whitequeen/familytree_grid.png"
+				},{
+					"title": "MAKING THE USER EXPERIENCE AS SEAMLESS AS POSSIBLE",
+					"copy": "Since the family tree houses large amounts of information for the user, we wanted to build an experience that did not require a fan to learn how to use it. The user experience is built very similar to a mapping interface with zoom, panning, and clicking on points. On computers, this is accomplished with mouse interactions click and drag to pan, mouse wheel to zoom, and click on points to open character panels. On tablets, this is accomplished with touch dragging to pan, pinch/expand to zoom, and touch to open character panels. All of this, creates an interface without a steep learning curve, in order to explore and learn more about the series.",
+					"image": "img/projects/whitequeen/familytree_top.png"
+				},{
+					"title": "THE MOST SCHEMING SCHEMER",
+					"copy": "As an added bonus to encourage users to return each week, the family tree also included a voting module. Based on the current week’s episode, there were three awards to be given out, to who the fans deemed as most deserving that week. The awards included \"Power Player\", \"Scheming Schemer\", \"War of the Words\", \"Shock and Awe\", \"Scene Stealer\" and \"If Looks Could Kill.\" ",
+					"image": "img/projects/whitequeen/familytree_vote.png"
+				}
+			]
+		},{
+			"title": "Press Kit",
+			"safename": "bts1presskit",
+			"background": "img/projects/blunttalk/bts1presskit_background.jpg",
+			"projectimage": "img/projects/blunttalk/bts1presskit_projectimage.png",
+			"titleart": "img/projects/blunttalk/blunttalk_titleart.png",
+			"description": "A promotional microsite sent to the press for the television show \"Blunt Talk\" that features an animated intro, cast and production bios, photography galleries, videos and downloads.",
+			"filters": ["artdirection","development","design","web","tablet","mobile"],
+			"marquee": "The Blunt Talk Press Kit is a promotional microsite with an inside look into the mind and escapades of Walter Blunt, played by Patrick Stewart, a British import intent on conquering the world of American cable news.",
+			"video": "videos/blunttalk.mp4",
+			"features": [
+				"Development // JQuery, HTML & CSS",
+				"Responsive // PC, Tablet, Mobile",
+				"Role // Art Direction, UX Design & Development"
+			],
+			"link": "http://brettgrisinger.com/projects/btpk/index.html",
+			"copy":[
+				{
+					"title": "INSIDE LOOK AT BLUNT",
+					"copy": "The “Blunt Talk” digital press kit is a microsite used to promote the new comedy show \"Blunt Talk\" to the press. The press kit provides an animated open, cast bios, production bios, photography galleries, videos and downloads to give an inside look at the new show and characters.",
+					"image": "img/projects/blunttalk/btpk_1.png"
+				},{
+					"title": "ANIMATED OPEN",
+					"copy": "A key element to the printed version of the \"Blunt Talk\" printed press kit is the vector outline of Walter Blunt's head,  that is filled in with different icons that represent his personality. To emphasize this section in the digital press kit, we animated it in using a plugin to draw the outline and then tweened the icons in. The biggest challenge was positioning all of the elements with percentages so that the head and icons were  responsive and could scale with different devices.",
+					"image": "img/projects/blunttalk/btpk_1.png"
+				},{
+					"title": "MULTIPLE DEVICES",
+					"copy": "It was important to build the site so that it could work on any device. All of the pages needed multiple layouts to be sure that the information was quickly viewable at first glance with minimum scrolling.",
+					"image": "img/projects/blunttalk/btpk_3.png"
+				}
+			]
+		},{
+			"title": "Apothecary Cabinent",
+			"safename": "ols1apothecary",
+			"background": "img/projects/outlander/apothecary_background.jpg",
+			"projectimage": "img/projects/outlander/apothecary_projectimage.png",
+			"titleart": "img/projects/outlander/outlander_titleart.png",
+			"description": "An informative experience for fans of the television series \"Outlander,\" highlighting the unique attributes of each herb that Claire studies and/or uses to treat illnesses.",
+			"filters": ["artdirection","development","design","web","tablet","mobile"],
+			"marquee": "In order to survive in the 1700s, it was vital that Claire had knowledge of the local plants and herbs for treating illnesses. The Outlander Apothecary Cabinet is an interactive way to venture deep inside Castle Leoch to explore the 14 herbs and tinctures used by Claire.",
+			"video": "videos/outlander.mp4",
+			"features": [
+				"Development // JQuery, HTML & CSS",
+				"Responsive // PC, Tablet, Mobile",
+				"Role // Art Direction, UX Design & Development"
+			],
+			"link": "http://www.brettgrisinger.com/projects/olsac/index.html",
+			"copy":[
+				{
+					"title": "A LOOK INTO THE PAST",
+					"copy": "The Outlander Apothecary Cabinet is an informative experience for fans of the television series \"Outlander,\" allowing users a glimpse into Claire's world in the 1700s as an apothecary. The cabinet provides a look into the 14 herbs and tinctures used by Claire to treat illnesses and also get details on how they were used.",
+					"image": "img/projects/outlander/apothecary_devices.png"
+				},{
+					"title": "PLACING THE HERBS IN THE CABINET",
+					"copy": "We worked with the set photographers to make the interface a replica of the actual cabinet from the set of \"Outlander,\" From this shot, we were able to pull a few bottles out of it, and with a scale tween, we were able to visualize them coming out of the cabinet on rollover.",
+					"image": "img/projects/outlander/apothecary_rollover.png"
+				},{
+					"title": "HOW THE HERBS WHERE USED IN THE 1700s",
+					"copy": "Each herb can be selected, by clicking on the image, providing the user with a drawing of the herb and a detailed description of how Claire used the herb to treat illness in the 1700's, as well as other ways that each herb was used for health benefits. ",
+					"image": "img/projects/outlander/apothecary_details.png"
+				}
+			]
+		},{
+			"title": "I Like It Scot",
+			"safename": "ols1ilikeitscot",
+			"background": "img/projects/outlander/likeitscot_background.jpg",
+			"projectimage": "img/projects/outlander/likeitscot_projectimage.png",
+			"titleart": "img/projects/outlander/outlander_titleart.png",
+			"description": "An activity for fans of the Scotland-based television series \"Outlander\" to create a sharable social image to tell their friends that they \"Like It Scot\" and are ready for the new season to begin.",
+			"filters": ["development","web","tablet","mobile","social"],
+			"marquee": "",
+			"video": "",
+			"features": [
+				"Development // PHP, JQuery, HTML & CSS",
+				"Responsive // PC, Tablet, Mobile",
+				"Role // Development"
+			],
+			"link": "http://brettgrisinger.com/projects/outlanderphoto/index.php",
+			"copy":[
+				{
+					"title": "SHOW THE WORLD",
+					"copy": "\"Outlander\" is a show that is based in the 1700s in Scotland, and has a very passionate fan based. The Outlander \"I Like It Scot\" is an activity for the fans to create a social image that can be shared with their friends, and to tell everybody that they are fan of the show and are ready for the new season of the show to begin. ",
+					"image": "img/projects/outlander/op_1.png"
+				},{
+					"title": "WALKING USERS THROUGH THE PROCESS",
+					"copy": "With this activity, it is very important to walk users through the process and make it as easy as possible. In order to do this, we created the experience in steps, and as self-explanatory as possible with visual guides that explain more the difficult functionality of positioning and resizing.",
+					"image": "img/projects/outlander/op_2.png"
+				},{
+					"title": "USING HTML5",
+					"copy": "While this experience could be done easily in both flash and a mobile app, it would require downloads from the user. So we decided to proceed using PHP and HTML5, to build this experience in a way that would save development time and also provide a uniform experience on any device.",
+					"image": "img/projects/outlander/op_3.png"
+				}
+			]
+		},{
+			"title": "Ultimate Showdown",
+			"safename": "spshowdown",
+			"background": "img/projects/spartacus/ultimateshowdown_background.jpg",
+			"projectimage": "img/projects/spartacus/ultimateshowdown_projectimage.png",
+			"titleart": "img/projects/spartacus/spartacus_titleart.png",
+			"description": "A facebook gladiator tournament where participants help their favorite gladiators from the television series \"Spartacus\" in their battle to become the champion.",
+			"filters": ["artdirection","design","web","social"],
+			"marquee": "In the spirit of Rome's most famous gladiator, the Spartacus Ultimate Showdown is a social gladiator tournament in the fight for survival, and a battle to be the fan favorite champion.",
+			"video": "",
+			"features": [
+				"Role // Art Direction & UX Design",
+				"Platform // Facebook App"
+			],
+			"link": "",
+			"copy":[
+				{
+					"title": "A TOURNAMENT WORTHY OF GLADIATORS",
+					"copy": "In the break between the second and the final season of \"Spartacus\", we were asked to create a way to engage their large Facebook fan base and draw hype to the release of the second season on DVD. For this, we created a gladiator battle tournament in which fans of the show could vote for their favorite gladiator in their battle to become champion.",
+					"image": "img/projects/spartacus/spartacus_top1.png"
+				},{
+					"title": "TWO GLADIATORS FACE OFF IN THE ARENA",
+					"copy": "Each day featured a new pair of gladiators to battle against each other, and fans were asked to pick who they wanted or thought would win if the two gladiators fought in the arena. After the fans voted, they were shown the voting percentages to see if their gladiator was winning, and on their way to becoming champion, or if they might be eliminated from the tournament.",
+					"image": "img/projects/spartacus/spartacus_battle1.png"
+				},{
+					"title": "WHO WILL BE CHAMPION?",
+					"copy": "The tournament field consisted of the 8 most popular gladiators from the first two seasons, and were seeded in similar fashion to the NCAA basketball tournament. The winner of each first round matchup moved on to another battle and ultimately ended with a champion that was not the legendary Spartacus, but the fan favorite Ganicus.",
+					"image": "img/projects/spartacus/spartacus_brackets1.png"
+				},{
+					"title": "A CHANCE TO WIN",
+					"copy": "In addition to the battles, this experience was used to promote the release of the second season of \"Spartacus\" on DVD. Once a fan voted in the daily battle, they earned a chance to win a copy of the second season on dvd or blu-ray and could come back each day for another shot to win. ",
+					"image": "img/projects/spartacus/spartacus_sweeps1.png"
+				}
+			]
+		},{
+			"title": "Press Kit",
+			"safename": "srs1presskit",
+			"background": "img/projects/survivorsremorse/presskit_background.jpg",
+			"projectimage": "img/projects/survivorsremorse/presskit_projectimage.png",
+			"titleart": "img/projects/survivorsremorse/survivorsremorse_titleart.png",
+			"description": "A promotional microsite sent to the press for the television show \"Survivor's Remorse\" that features cast and production bios, photography galleries, videos and downloads.",
+			"filters": ["artdirection","development","design","web","tablet","mobile"],
+			"marquee": "",
+			"video": "",
+			"features": [
+				"Development // JQuery, HTML & CSS",
+				"Responsive // PC, Tablet, Mobile",
+				"Role // Art Direction, UX Design & Development"
+			],
+			"link": "http://www.brettgrisinger.com/projects/srpk/index.html",
+			"copy":[
+				{
+					"title": "PROMOTING THE SHOW",
+					"copy": "To spread the word about the upcoming show, \"Survivor's Remorse,\" a digital press kit microsite was built off of the printed press kit that goes out to the press. This press kit is designed to provide a visual of the show's flavor and also provide cast bios, production bios, photography galleries, videos and downloads.",
+					"image": "img/projects/survivorsremorse/sr_devices.png"
+				},{
+					"title": "TYPOGRAPHY",
+					"copy": "The main feature in the \"Survivor's Remorse\" press kit is both the attitude and style that is developed through the white space, character shots, and accents of strong and bold typography. To emphasize these key features, animation is used when you page through on the home page with the arrow keys, using the motion to draw attention to the amazing typography and photography.",
+					"image": "img/projects/survivorsremorse/sr_type.png"
+				},{
+					"title": "TABLET AND MOBILE VERSION",
+					"copy": "The press can often be viewing the site on many different devices, so an important element to the press kits is to make sure they can be viewed on any device and allow the user to quickly get to the information they need.",
+					"image": "img/projects/survivorsremorse/sr_mobile.png"
+				}
+			]
+		},{
+			"title": "Pirate Prize Wheel",
+			"safename": "blsprizewheel",
+			"background": "img/projects/blacksails/piratewheel_background.jpg",
+			"projectimage": "img/projects/blacksails/piratewheel_projectimage.png",
+			"titleart": "img/projects/blacksails/blacksails_titleart.png",
+			"description": "A portable training activity for the promotion of the television series \"Black Sails,\" which includes a pirate theme and editable prizes.",
+			"filters": ["artdirection","development","design","web","tablet","game"],
+			"marquee": "In the Golden Age of Piracy, pirates would stop at nothing in their hunt for their ultimate prize. The \"Black Sails\" Pirate Prize Wheel is a simple prize activity that is built for the pirate in us all.",
+			"video": "videos/blacksails.mp4",
+			"features": [
+				"Development // JQuery, HTML & CSS",
+				"Responsive // PC, Tablet",
+				"Role // Art Direction, UX Design & Development"
+			],
+			"link": "http://www.brettgrisinger.com/projects/bkspw/index.html",
+			"copy":[
+				{
+					"title": "IN PURSUIT OF PIRATE'S TREASURE",
+					"copy": "For the promotion of the new pirate series, \"Black Sails,\" we were asked to create a portable prize wheel that be could carried around on tablets by representatives to award prizes for correct answers about the show and pirates.",
+					"image": "img/projects/blacksails/prizewheel_ingraphic.png"
+				},{
+					"title": "MAKING A PIRATE'S WHEEL",
+					"copy": "Since this prize wheel was going to be themed for pirates, we decided to make the wheel look like the steering wheel from the Walrus, the ship used by the pirates in \"Black Sails.\" In order to do this, we had to find a prop shot that included the wheel, and then use photo retouching to complete the wheel and treat the image to turn this into an asset that could be used.",
+					"image": "img/projects/blacksails/piratewheel2.png"
+				},{
+					"title": "CHANGEABLE PRIZES AND QUESTIONS ON THE FLY",
+					"copy": "We were asked to design and develop around the concept that representatives needed to be able to change out the prizes and questions on the fly, and without requiring logins. The solution that we came up with was to store the data for the prizes and questions in cookies. This way, the data was device specific and can be shared and edited by any of the representatives and if they run out of a prize, they can easily and quickly update. ",
+					"image": "img/projects/blacksails/editpage.png"
+				},{
+					"title": "LANDING ON THE PRIZES",
+					"copy": "When we began developing the spinning wheel, it became apparent that we needed to develop a controlled spin that would land directly on a prize, and not somewhere in between two prizes. In order to achieve this, we randomly selected a prize before any spinning occurred, and calculated out what the degree would be for that prize. We then multiplied by the number of rotations, and then spun directly to that point. This way the prize wheel always landed directly on a prize. ",
+					"image": "img/projects/blacksails/prod_shot.png"
+				}
+			]
+		}
+	]
+}

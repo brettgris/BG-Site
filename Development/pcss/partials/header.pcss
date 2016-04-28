@@ -1,0 +1,124 @@
+nav{
+	&.navbar{
+		min-height: var(--header-height);
+		background: var(--header-background);
+		width: var(--max-page-width);
+		left:50%;
+		margin-left: var(--page-margin-left);
+		border-bottom: var(--header-border);
+
+		@media (--page-break) {
+			width:100%;
+			left:0;
+			margin-left:0;
+		}
+
+		.container{
+			.row{
+				position: relative;
+
+				.back{
+					width: 50px;
+					position: absolute;
+					color: white;
+					height: var(--header-height);
+					line-height: var(--header-height);
+					z-index: 5;
+					
+					a{
+						color: white;
+						font-size: 24px;
+					}
+				}
+
+				.wrapper{
+		 			position: absolute;
+		 			width: 100%;
+					/*overflow:hidden;*/
+					height: var(--header-height);
+					display: flex;
+					align-items: center;
+					justify-content: center;
+
+					transition: all .5s ease-out;
+
+		 			.logo{
+						margin:0;
+						padding:0;
+						float:left;
+
+						a{
+							display:inline-block;
+							height: var(--header-height);
+							width: var(--header-logo-width);
+							background: var(--header-logo-bg) center center;
+						}
+					}
+
+					.ta{
+						float:left;
+						overflow: hidden;
+						width: 0;
+						position: relative;
+						height: var(--header-height);
+						margin-left:10px;
+
+						transition: width .5s ease-out;
+
+						span{
+							display:block;
+							height: var(--header-height);
+							background-size: contain;
+							background-repeat: no-repeat;
+							background-position: center center;
+							width: var(--header-ta-width);
+						}
+
+						&.animate{
+							width: var(--header-ta-width);
+						}
+					}
+
+					.title{
+						display:block;
+						position:relative;
+						height: var(--header-height);
+						margin-left:10px;
+						text-align: left;
+						color: transparent;
+						line-height: var(--header-title-line-height);
+						visibility: visible;
+						overflow:hidden;
+
+						span{
+							display:inline-block;
+							height: var(--header-height);
+							position: absolute;
+							top:0;
+							left:-300px;
+							color:var(--header-text);
+
+							transition: left .5s;
+							transition-delay: .25s;
+						}
+
+						&.animate{
+							span{
+								left: 0;
+							}
+
+						}
+					}
+
+					&.home{
+						.ta, .title{
+							visibility: hidden;
+						}
+					}
+				}
+
+
+			}
+		}
+	}
+}

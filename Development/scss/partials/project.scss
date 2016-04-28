@@ -1,0 +1,111 @@
+.project{
+	.marquee{
+		height: $project-marquee-height;
+		background: $project-marquee-background;
+		position: relative;
+    	overflow:hidden;
+		width:100%;
+		background-size: cover;
+		background-position: center center;
+
+		.gradient{
+			height: $project-marquee-height;
+			position: absolute;
+			width:100%;
+			top:0px;
+
+			@include background-image(linear-gradient(rgba(0,0,0,0) 50%, rgba(0,0,0,.7) 100%));
+		}
+
+		.header{
+			position: relative;
+			height: $project-marquee-height;
+			z-index: 1;
+
+			.copy{
+				color: $project-marquee-text;
+				position: absolute;
+				bottom:0px;
+				padding-bottom: 40px;
+
+				.ta{
+					height:$project-marquee-ta;
+					background: left center;
+					background-repeat: no-repeat;
+					background-size: contain;
+				}
+
+				.title{
+					margin-top: 10px;
+				}
+			}
+		}	
+	}
+	
+	.features{
+		min-height: $project-features-height;
+		background: $project-features-background;
+		border-bottom: $project-features-border;
+
+		.container{
+			.row{
+				div{
+					margin-top: 10px;
+				}
+
+				h3{
+					letter-spacing: 1px;
+					margin-top: 10px;
+					margin-bottom: 5px;
+					font-weight: 700;
+					font-size: 18px;
+				}
+
+				p{
+					font-size: 14px;
+					line-height: 20px;
+				}
+
+				.links{
+					text-align: right;
+
+					@media (screen and max-width: 768px) {
+						text-align: left;
+					}
+				}
+			}
+		}
+	}
+	
+	.desc{
+		padding-top: 50px;
+
+		h1{
+			color: $black;
+			text-align: center;
+			@extend h2;
+		}
+
+		.desc-image{
+			text-align: center;
+			margin: 30px auto;
+
+			img{
+				@extend .img-responsive;
+				margin: auto;
+			}
+		}
+	}
+
+	.paging{
+		padding-bottom: 50px;
+		background: $project-features-background;
+		border-bottom: $project-features-border;
+		padding-top: 30px;
+
+
+		.button{
+			margin: 20px auto 0 auto;
+		}
+	}
+}

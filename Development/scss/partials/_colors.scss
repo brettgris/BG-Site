@@ -1,0 +1,63 @@
+$light-grey: #e6e6e6;
+$medlight-grey: #ccc;
+$med2-grey: #aaa;
+$med-grey: #666;
+$white: #FFF;
+$black: #000;
+
+/************************  BODY  ************************/
+$body-background: url(#{$imgPath}brushed.png) #fff;
+$link-color: #333;
+$link-inverse-color: $medlight-grey;
+
+$hover-color: $black;
+$hover-inverse-color: $white;
+
+$btn-text-color: $black;
+$btn-text-color-inverse: $white;
+
+$btn-hover-bg: $black;
+$btn-hover-bg-inverse: $white;
+
+$btn-text-hover: $white;
+$btn-text-hover-inverse: $black;
+
+$inverse-color: $white;
+
+/************************  PAGE  ************************/
+$page-background: url(#{$imgPath}bg_bind.png) #fff;
+
+/************************  HEADER  ************************/
+$header-background: url(#{$imgPath}header_m.png) rgba(0,0,0,.75) repeat-x;
+$logo-color: $white;
+$header-logo-bg: url(#{$imgPath}logo.svg) no-repeat;
+$header-text: $light-grey;
+
+/************************  MARQUEE  ************************/
+$marquee-background: $black;
+$marquee-text: $light-grey;
+$marquee-view-color: $medlight-grey;
+$marquee-text-hover: $white;
+
+$marquee-logo-background: url(#{$imgPath}icon.svg) cyan no-repeat;
+
+/************************  WORK  ************************/
+$filter-hover-background: $light-grey;
+$project-item-background: $light-grey;
+
+$work-title-color: $white;
+$work-copy-color: $light-grey;
+
+/************************  ABOUT  ************************/
+
+/************************  CONTACT  ************************/
+$contact-background:url(#{$imgPath}bg_blue.jpg);
+$contact-link-color: $white;
+$copyright-color: $med2-grey;
+$contact-link-background: rgba(256,256,256,.1) no-repeat;
+$contact-link-hover: rgba(256,256,256,.2);
+
+/************************  PROJECT  ************************/
+$project-marquee-background: $marquee-background;
+$project-marquee-text: $marquee-text;
+$project-features-background: url(#{$imgPath}mooning.jpg) #e3e3e3;

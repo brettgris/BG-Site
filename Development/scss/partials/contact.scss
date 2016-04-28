@@ -1,0 +1,114 @@
+#contact{
+	background: $contact-background;
+	
+	.section-content{
+
+		.contact-details{
+			margin-top: 50px;
+
+			.contact-info{
+				padding-bottom: 35px;
+
+				h4{
+					margin-bottom: 10px;
+
+					a{
+						margin-top: 5px;
+					}
+				}
+
+				.social{
+					margin-top: 30px;
+					text-align: center;
+
+					a{
+						width:$contact-link-size;
+						height:$contact-link-size;
+						display: inline-block;
+						border-radius:30px;
+						background: $contact-link-background;
+						border:$contact-link-border;
+						text-align: left;
+						cursor: pointer;
+						margin-right: 20px;
+						
+						@include transition-property(width);
+			 			@include transition-duration(0.3s);
+			 			@include transition-timing-function(ease-out);
+
+			 			&:last-child{
+			 				margin-right: 0;
+			 			}
+
+						span {
+							@extend .contact-link;
+
+							display: inline-block;
+							width:0px;
+							overflow: hidden;
+							
+							@include transition-property(width);
+			 				@include transition-duration(0.3s);
+			 				@include transition-timing-function(ease-out);
+						}
+
+						&:hover{
+							width:135px;
+						
+							background-color:$contact-link-hover;
+
+							span {
+								width:$contact-link-hover-size;
+							}
+						}
+
+						&.resume{
+							background-position: 9px center !important;
+							background-image: url(#{$imgPath}cv.png) !important;
+						}
+
+						&.linkedin{
+							background-position: 9px center !important;
+							background-image: url(#{$imgPath}lkin.png) !important;
+						}
+
+						&.github{
+							background-position: 9px center !important;
+							background-image: url(#{$imgPath}gthb.png) !important;
+						}
+					}
+				}
+			}
+
+			.contact-form{
+				.contact-wrapper{
+					.button-container{
+						.button{
+							margin-left: auto;
+						}
+					}
+				}
+
+				.send-success{
+					.button-container{
+						margin-top: 15px; 
+						.button{
+							margin: 0 auto;
+						}
+					}
+				}
+				
+			}
+
+		}
+
+		.contact-copyright {
+			margin-top: 35px;
+			height:$copyright-height;
+
+			p{
+				border-top:$copyright-border;
+			}
+		}
+	}
+}

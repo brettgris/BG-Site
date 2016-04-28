@@ -1,0 +1,88 @@
+body {
+	background: $body-background;
+}
+
+h1,h2,h3,h4,h5{
+	margin: 0;
+	padding:0;
+}
+
+.page{
+	background: $page-background;
+	width: $max-page-width;
+	margin: auto;
+	border-left: $page-border;
+	border-right:$page-border;
+	border-bottom:$page-border;
+
+	@media screen and (max-width : $window-break) {
+		width:100%;
+		border-left: none;
+		border-right:none;
+	}
+}
+
+.section{
+	position: relative;
+	padding-top: $section-padding-top;
+
+	.section-header{
+		p{
+			margin-top: 5px;
+			font-size: 18px;
+		}
+	}
+}
+
+.button{
+	@extend .buttoncopy;
+	width:$btn-width;
+	height:$btn-height;
+	display: block;
+	border:$btn-border;
+	color:$btn-text-color;
+	cursor: pointer;
+	overflow: hidden;
+	position: relative;
+
+	.over{
+		top: $btn-height;
+		display: block;
+		position: absolute;
+		width:$btn-width;
+		height: $btn-height;
+		left:0;
+		background: $btn-hover-bg;
+		color: $btn-text-hover;
+
+		@include transition-property(top);
+		@include transition-duration(0.1s);
+		@include transition-timing-function(ease-out);
+	}
+
+	&.inverse{
+		border:$btn-border-inverse;
+		color:$btn-text-color-inverse;
+
+		.over{
+			background: $btn-hover-bg-inverse;
+			color: $btn-text-hover-inverse;
+		}
+	}
+
+	&:hover .over{
+		top:0px;
+	}
+}
+
+.img-responsive{
+	display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.vertical-center{
+	display: flex;
+	align-items: center;
+}
+

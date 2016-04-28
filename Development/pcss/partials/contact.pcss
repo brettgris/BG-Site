@@ -1,0 +1,109 @@
+#contact{
+	background: var(--contact-background);
+
+	.section-content{
+
+		.contact-details{
+			margin-top: var(--subsection-padding);
+
+			.contact-info{
+				padding-bottom: var(--supersub-padding);
+
+				h4{
+					margin-bottom: var(--contact-info-title-margin-bottom);
+
+					a{
+						margin-top: var(--contact-infor-title-link-margin-top);
+					}
+				}
+
+				.social{
+					margin-top: var(--supersub-padding);
+					text-align: center;
+
+					a{
+						width: var(--contact-link-size);
+						height: var(--contact-link-size);
+						display: inline-block;
+						border-radius: var(--contact-link-border-radius);
+						background: var(--contact-link-background);
+						border: var(--contact-link-border);
+						text-align: left;
+						cursor: pointer;
+						margin-right: var(--contact-link-margin-right);
+
+						transition: width .3s ease-out;
+
+			 			&:last-child{
+			 				margin-right: 0;
+			 			}
+
+						span {
+							@extend .contact-link;
+
+							display: inline-block;
+							width:0px;
+							overflow: hidden;
+
+							transition: width .3s ease-out;
+						}
+
+						&:hover{
+							width: var(--contact-link-hover-size);
+
+							background-color: var(--contact-link-hover);
+
+							span {
+								width: var(--contact-link-hover-size);
+							}
+						}
+
+						&.resume{
+							background-position: 9px center !important;
+							background-image: url(var(--imgPath)contact/cv.png) !important;
+						}
+
+						&.linkedin{
+							background-position: 9px center !important;
+							background-image: url(var(--imgPath)contact/lkin.png) !important;
+						}
+
+						&.github{
+							background-position: 9px center !important;
+							background-image: url(var(--imgPath)contact/gthb.png) !important;
+						}
+					}
+				}
+			}
+
+			.contact-form{
+				.contact-wrapper{
+					.button-container{
+						.button{
+							margin-left: auto;
+						}
+					}
+				}
+
+				.send-success{
+					.button-container{
+						margin-top: var(--contact-success-margin-top);
+						.button{
+							margin: 0 auto;
+						}
+					}
+				}
+			}
+
+		}
+
+		.contact-copyright {
+			margin-top: var(--supersub-padding);
+			height: var(--copyright-height);
+
+			p{
+				border-top: var(--copyright-border);
+			}
+		}
+	}
+}

@@ -1,0 +1,145 @@
+.project{
+	.marquee{
+		height: var(--project-marquee-height);
+		background: var(--project-marquee-background);
+		position: relative;
+    	overflow:hidden;
+		width:100%;
+		background-size: cover;
+		background-position: center center;
+
+		.gradient{
+			height: var(--project-marquee-height);
+			position: absolute;
+			width:100%;
+			top:0px;
+
+			background: linear-gradient(rgba(0,0,0,0) 50%, rgba(0,0,0,.7) 100%);
+		}
+
+		.header{
+			position: relative;
+			height: var(--project-marquee-height);
+			z-index: 1;
+
+			.copy{
+				color: var(--project-marquee-text);
+				position: absolute;
+				bottom:0px;
+				padding-bottom: var(--supersub-padding);
+
+				.ta{
+					height: var(--project-marquee-ta);
+					background: left center;
+					background-repeat: no-repeat;
+					background-size: contain;
+				}
+
+				.title{
+					margin-top: var(--project-marquee-copy-margin-top);
+				}
+			}
+		}
+	}
+
+	.features{
+		min-height: var(--project-features-height);
+		background: var(--project-features-background);
+		border-bottom: var(--project-features-border);
+
+		.container{
+			.row{
+				div{
+					margin-top: var(--features-margin-top);
+				}
+
+				.links{
+					text-align: right;
+
+					@media (--x-small) {
+						text-align: left;
+					}
+				}
+			}
+		}
+	}
+
+	.desc{
+		padding-top: var(--subsection-padding);
+
+		h2{
+			color: var(--black);
+			text-align: center;
+		}
+
+		.desc-image{
+			text-align: center;
+			margin: var(--supersub-padding) auto;
+		}
+	}
+
+	.paging{
+		padding-bottom: 50px;
+		background: var(--project-features-background);
+		border-bottom: var(--project-features-border);
+		padding-top: 30px;
+
+		.othertitle{
+			margin-bottom: var(--supersub-padding);
+		}
+
+		.other{
+			margin-bottom: var(--supersub-padding);
+
+			.item{
+				height: var(--others-height);
+				background-size: cover;
+				background-repeat: no-repeat;
+				background-position: center center;
+				position: relative;
+				padding: 0;
+
+				.copy{
+					background: var(--others-background-color);
+					position:absolute;
+					width: 100%;
+					height: 100%;
+					display: flex;
+					align-items: center;
+					justify-content: center;
+
+					.content-container{
+						width: var(--other-ta-width);
+
+						.ta{
+							width: 100%;
+							height: var(--other-ta-height);
+							margin: auto;
+							background-size: contain;
+							background-repeat: no-repeat;
+							background-position: center center;
+							margin-bottom: 5px;
+						}
+
+						h3{
+							color: var(--marquee-text);
+							text-transform: uppercase;
+							text-align: center;
+							letter-spacing: 1.2px;
+							font-size: 18px;
+							position: relative;
+							top:0;
+							margin-bottom: var(--other-spacing);
+						}
+					}
+
+
+				}
+			}
+		}
+
+		.button{
+			margin: auto;
+		}
+	}
+}
