@@ -27,10 +27,10 @@ class ProjectPage extends Component{
 
 	setProject(projects,safename){
 		var n;
-		var project = _.find(projects, function(v,k){
+		var project = projects.find( function(v,k){
 			n = k;
 			return (v.safename==safename);
-		})
+		});
 
 		projects[n].viewed = true;
 

@@ -17,7 +17,6 @@ class Project extends Component {
 						headline="Engaging digital experiences that tell a story"
 						description="There is nothing like the satisfaction of rolling out a new project, and I would like to invite you to have a look at some of my recent projects that I am excited to share with you."
 					/>
-					<ProjectFilter />
 					<ProjectList />
 				</div>
 			</div>

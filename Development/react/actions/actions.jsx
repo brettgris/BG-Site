@@ -1,4 +1,4 @@
-import axios from 'axios';
+import superagent from 'superagent';
 
 export const FETCH_DATA = 'FETCH_DATA';
 export const SET_FILTER = 'SET_FILTER';
@@ -6,25 +6,34 @@ export const SET_PROJECT = 'SET_PROJECT';
 
 //GET THEM
 export function fetchData(){
-	const url = "/data/data.json"
-	const request = axios.get(url);
+	return dispatch => {
+		const url = "/data/data.json";
+		const request = superagent.get(url).end(function(err,res){
+			if (res) {
+				dispatch({
+					type: FETCH_DATA,
+					payload: res.body
+				});
+			}
 
-	return {
-		type: FETCH_DATA,
-		payload: request
+		});
 	}
 }
 
 export function setFitler(name){
-	return {
-		type: SET_FILTER,
-		payload: (name) ? name : ""
+	return dispatch => {
+		dispatch ({
+			type: SET_FILTER,
+			payload: (name) ? name : ""
+		});
 	}
 }
 
 export function setProject(project){
-	return {
-		type: SET_PROJECT,
-		payload: (project) ? project : null
+	return dispatch => {
+		dispatch ({
+			type: SET_PROJECT,
+			payload: (project) ? project : null
+		})
 	}
 }

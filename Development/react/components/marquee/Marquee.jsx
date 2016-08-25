@@ -8,10 +8,6 @@ import MarqueeIcon from './children/MarqueeIcon.jsx';
 import MarqueeItem from './children/MarqueeItem.jsx';
 import MarqueeVideo from './children/MarqueeVideo.jsx';
 
-//
-//<MarqueeList projects={this.state.projects} current={this.state.current} />
-//<MarqueeVideo projects={this.state.projects} current={this.state.current} changeItem={this.changeItem} />
-
 class Marquee extends Component {
 	constructor(props){
 		super(props);
@@ -54,7 +50,7 @@ class Marquee extends Component {
 	}
 
 	addVideo(){
-		if(this.props.marquees[this.state.current].video) {
+		if(this.props.marquees[this.state.current].video&&!Modernizr.touchevents) {
 			return (
 				<MarqueeVideo data={this.props.marquees[this.state.current]} handleComplete={this.nextItem} />
 			);

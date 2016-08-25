@@ -16,7 +16,6 @@ class MarqueeIcon extends Component{
 
 		this.inAnimate = this.inAnimate.bind(this);
 		this.outAnimate = this.outAnimate.bind(this);
-		this.handleMouseMove = this.handleMouseMove.bind(this);
 	}
 
 	componentDidMount(){
@@ -31,15 +30,6 @@ class MarqueeIcon extends Component{
 		this.to = setTimeout(this.inAnimate, 1000);
 	}
 
-	handleMouseMove(event) {
-		this.firstshine.light.position.x = event.clientX;
-		this.firstshine.light.position.y = event.clientY;
-		this.firstshine.draw();
-
-		this.lastshine.light.position.x = event.clientX;
-		this.lastshine.light.position.y = event.clientY;
-		this.lastshine.draw();
-	}
 
 	inAnimate(){
 		this.tl = new TimelineLite();
@@ -48,18 +38,6 @@ class MarqueeIcon extends Component{
 		this.tl.call( function(){
 			$('#firstname').html("BRETT");
 			$('#lastname').html("GRISINGER");
-
-			this.config = new shinejs.Config({
-			  numSteps:100,
-			  opacity: .05,
-			  blur: 20,
-			  shadowRGB: new shinejs.Color(0, 0, 0)
-			});
-
-			this.firstshine = new Shine(document.getElementById('firstname'),this.config);
-			this.lastshine = new Shine(document.getElementById('lastname'),this.config);
-
-			$(window).on("mousemove", this.handleMouseMove);
 		}.bind(this) );
 	}
 

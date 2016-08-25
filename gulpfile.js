@@ -12,6 +12,7 @@ var del = require('del'),
     source = require('vinyl-source-stream'),
     buffer = require('vinyl-buffer'),
     postcss = require('gulp-postcss'),
+	 cssnano = require('gulp-cssnano'),
     historyApiFallback = require('connect-history-api-fallback'),
     browserSync = require('browser-sync').create();
 
@@ -45,13 +46,16 @@ gulp.task('postcss', function() {
             }
         }))
         .pipe(postcss(processors))
-		  .pipe(rename('main.css'))
+		  .pipe(cssnano())
+		  .pipe(rename('main.min.css'))
         .pipe(gulp.dest('Production/css'))
 		  .pipe(browserSync.stream());
 });
 
 gulp.task('react', function() {
-    return browserify('Development/react/App.jsx')
+	//set to product mode for minifying
+	process.env.NODE_ENV = 'production';
+   return browserify('Development/react/App.jsx')
         .transform(babelify, {
             presets: ["es2015", "react"]
         })
@@ -62,7 +66,7 @@ gulp.task('react', function() {
         })
         .pipe(source('app.min.js'))
         .pipe(buffer())
-        //.pipe(uglify())
+        .pipe(uglify())
         .pipe(gulp.dest('Production/js'))
 		  .pipe(browserSync.stream());
 });

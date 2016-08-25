@@ -20,8 +20,10 @@ class ProjectItem extends Component{
 		var imgClass = "image col-md-7 hidden-sm";
 		var altimage = (this.props.index%2==0) ? imgClass+" col-md-pull-5" : imgClass;
 
+		const touchclass = (Modernizr.touchevents) ? "touch" : "";
+
 		return (
-			<div className="project-item" style={bgStyle}>
+			<div className={"project-item "+touchclass} style={bgStyle}>
 				<div className="overlay"></div>
 				<div className="container">
 					<div className="details row">
